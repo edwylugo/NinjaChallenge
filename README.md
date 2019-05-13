@@ -16,5 +16,5 @@
 
 1. Clone the repository using Sourcetree.
 2. Install Android Studio.
-3. Open Android Studio, click 'Open ... and select the Xcontrol project folder.
+3. Open Android Studio, click 'Open ... and select the NinjaChallenge project folder.
 4. Run the app.
